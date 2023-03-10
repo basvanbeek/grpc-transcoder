@@ -1,0 +1,5 @@
+istio-*
+gen-grpc-transcoder
+gen-transcoder
+vendor
+.idea
